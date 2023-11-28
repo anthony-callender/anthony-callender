@@ -1,6 +1,6 @@
 ## Hey 👋, This is Anthony Callender
 [![Gmail Badge](https://img.shields.io/badge/-tonycallenderfx@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tonycallenderfx@gmail.com)](mailto:tonycallenderfx@gmail.com) 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/anthony-callender-4492bb2a1/) [![Github Badge](https://img.shields.io/badge/-anthony-callender-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anthony-callender/)](https://www.github.com/anthony-callender/) <p align='left'>Passionate data scientist | ML, stats, Python, SQL | Led 13+ analytics projects showcasing technical expertise.
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/anthony-callender-4492bb2a1/) [![Visit GitHub Profile](https://img.shields.io/badge/Visit%20GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anthony-callender) <p align='left'>Passionate data scientist | ML, stats, Python, SQL | Led 13+ analytics projects showcasing technical expertise.
 
 🌟 Data science enthusiast passionate about AI's potential in finance.
 
