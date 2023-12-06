@@ -2,15 +2,31 @@
 [![Gmail Badge](https://img.shields.io/badge/-tonycallenderfx@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tonycallenderfx@gmail.com)](mailto:tonycallenderfx@gmail.com) 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/anthony-callender-4492bb2a1/) [![Visit GitHub Profile](https://img.shields.io/badge/Visit%20GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anthony-callender) <p align='left'>Passionate data scientist | ML, stats, Python, SQL | Led 13+ analytics projects showcasing technical expertise.
 
+Hey there, I'm Anthony Callender, a dedicated Data Scientist with a focus on Business Analytics and Machine Learning. Across more than 13 technical projects, I've honed my skills in Optimization, Time Series Analysis, Forecasting, and crafting predictive ML models using Python, SQL, ML, and DL techniques.
+
+My passion lies in the intersection of data and finance. Currently, I'm engrossed in constructing a minimum viable trading bot that forecasts institutional price movements—an exciting venture in the finance domain.
+
+While my professional journey includes over a year of freelance web development work with one brand and two companies using WordPress, my collaboration with a graphic designer in these projects enriched my problem-solving, communication, and critical thinking abilities, crucial skills in any business context.
+
+My educational background includes graduating from TripleTen's rigorous 10-month Data Science program in November 2022, where I obtained a comprehensive certificate in Data Science, diving deep into advanced analytical techniques.
+
+I'm excited to apply my expertise in data-driven decision-making to the dynamic world of finance. Feel free to explore my repositories to delve deeper into my projects and endeavors!
+
+Some facts about me:
+
 🌟 Data science enthusiast passionate about AI's potential in finance.
 
-🚀 Currently, I'm crafting a data-driven web app to empower retail investors using OpenAI's API—a custom GPT model focusing on retail market data, offering real-time analytics & insights.
+🚀 Passionate about Philosophy, Science, and Theology
 
 📈 I'm exploring quantitative finance, diving deep into time-series analysis & ML for stock market prediction.
 
-🤝 Seeking collaboration in quant finance & financial data science projects.
+🏃‍♀️ Love fitness and starting my calisthenics journey
 
-💬 Let's chat about AI, finance, or collaboration! Reach out via tonycallenderfx@gmail.com or connect on LinkedIn.</p>
+🎯 My goals for 2024: landing my dream job in data
+
+🤝 Seeking networking opportunities.
+
+💬 Let's chat about AI, finance, business or collaboration! Reach out via tonycallenderfx@gmail.com or connect on LinkedIn.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=anthony-callender alt=anthony-callender /> </p>
 
