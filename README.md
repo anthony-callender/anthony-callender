@@ -16,13 +16,13 @@ Some facts about me:
 
 🌟 Data science enthusiast passionate about AI's potential in finance.
 
-🚀 Passionate about Philosophy, Science, and Theology
+🚀 Passionate about Philosophy, Science, and Theology.
 
 📈 I'm exploring quantitative finance, diving deep into time-series analysis & ML for stock market prediction.
 
-🏃‍♀️ Love fitness and starting my calisthenics journey
+🏃‍♀️ Love fitness and starting my calisthenics journey.
 
-🎯 My goals for 2024: landing my dream job in data
+🎯 My goals for 2024: landing my dream job in data.
 
 🤝 Seeking networking opportunities.
 
