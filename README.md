@@ -2,11 +2,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-tonycallenderfx@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tonycallenderfx@gmail.com)](mailto:tonycallenderfx@gmail.com) 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/anthony-callender-4492bb2a1/) [![Visit GitHub Profile](https://img.shields.io/badge/Visit%20GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/anthony-callender) <p align='left'>Passionate data scientist | ML, stats, Python, SQL | Led 13+ analytics projects showcasing technical expertise.
 
-Hey there, I'm Anthony Callender, a dedicated Data Scientist with a focus on Business Analytics and Machine Learning. Across more than 13 technical projects, I've honed my skills in Optimization, Time Series Analysis, Forecasting, and crafting predictive ML models using Python, SQL, ML, and DL techniques.
+Hey there, I'm Anthony Callender, a dedicated Data Scientist with a focus on Data Analytics and Machine Learning. Across more than 13 technical projects, I've honed my skills in Optimization, Clustering, NLP, and crafting predictive ML models using Python, SQL, ML, and DL techniques.
 
-My passion lies in the intersection of data and finance. Currently, I'm engrossed in constructing a minimum viable trading bot that forecasts institutional price movements—an exciting venture in the finance domain.
+I consider myself a digital polytmath with a passion to learn everything about everything, particualy anything related to: Artificial Intelligence, Computer Science, Mathematics, Physics, Philosophy, Psychology, Theology, Economics, Finance, Business, etc.
 
-While my professional journey includes over a year of freelance web development work with one brand and two companies using WordPress, my collaboration with a graphic designer in these projects enriched my problem-solving, communication, and critical thinking abilities, crucial skills in any business context.
+While my professional journey includes over 2 years of freelance web development work with a professional boxer and multiple B2B businesses using WordPress, my collaboration with an edtech startup Kippy.ai, provided me with the opportunity to inmerse myself in the self-improvement and education industry. I conducted user segmentation analysis using various clustering techniques to create detailed user profiles. These profiles assist in personalizing the application and enhancing marketing strategies. I collaborated with a data team to perform in-depth analysis of application data, employing natural language processing (NLP) to extract unique insights and personality traits from user messages.
 
 My educational background includes graduating from TripleTen's rigorous 10-month Data Science program in November 2022, where I obtained a comprehensive certificate in Data Science, diving deep into advanced analytical techniques.
 
@@ -14,11 +14,11 @@ I'm excited to apply my expertise in data-driven decision-making to the dynamic 
 
 Some facts about me:
 
-🌟 Data science enthusiast passionate about AI's potential in finance.
+🌟 Data science enthusiast passionate about AI's potential in self-improvement.
 
 🚀 Passionate about Philosophy, Science, and Theology.
 
-📈 I'm exploring quantitative finance, diving deep into time-series analysis & ML for stock market prediction.
+📈 I'm exploring AI engineering, diving deep into the application of NLP in self-education & productivity.
 
 🏃‍♀️ Love fitness and starting my calisthenics journey.
 
@@ -26,7 +26,7 @@ Some facts about me:
 
 🤝 Seeking networking opportunities.
 
-💬 Let's chat about AI, finance, business or collaboration! Reach out via tonycallenderfx@gmail.com or connect on LinkedIn.</p>
+💬 Let's chat about AI, Business, Philosophy or collaboration! Reach out via tonycallenderfx@gmail.com or connect on LinkedIn.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=anthony-callender alt=anthony-callender /> </p>
 
