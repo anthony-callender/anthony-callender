@@ -10,7 +10,7 @@ While my professional journey includes over 2 years of freelance web development
 
 My educational background includes graduating from TripleTen's rigorous 10-month Data Science program in November 2022, where I obtained a comprehensive certificate in Data Science, diving deep into advanced analytical techniques.
 
-I'm excited to apply my expertise in data-driven decision-making to the dynamic world of finance. Feel free to explore my repositories to delve deeper into my projects and endeavors!
+I'm excited to apply my expertise in data-driven decision-making to the dynamic world of business and technology. Feel free to explore my repositories to delve deeper into my projects and endeavors!
 
 Some facts about me:
 
